@@ -2,7 +2,8 @@
 
 Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.
 
-![mice-tele](https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd = 250x250)
+<img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="200" alt="mice-tele">
+
 
 ## Overview
 
