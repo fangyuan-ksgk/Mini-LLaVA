@@ -8,6 +8,11 @@
 </div>
 ## Overview
 
+<div align="center">
+  <img src="data/mini-llava.png" width="800" alt="Mini-LLaVA">
+  <p><em>Mini-LLaVA handles text, image and video inputs</em></p>
+</div>
+
 
 Mini-LlaVA is a lightweight implementation of the LLaVA model, designed to unlock multimodal capabilities of Large Language Models (LLMs) using a single GPU. This project extends the original LLaVA concept by enabling interleaved processing of multiple images, videos, and text inputs respecting their order of appearance.
 
