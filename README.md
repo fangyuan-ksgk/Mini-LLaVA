@@ -9,9 +9,8 @@ Mini-LlaVA is a lightweight implementation of the LLaVA model, designed to unloc
 ## Features
 
 - Minimal implementation of LLaVA
-- Interleaved processing of multiple modalities:
+- Interleaved processing of multiple modalities of any number, obeying order of their inputs:
   - Images
   - Videos
   - Text
-- Single GPU support
 - Jupyter notebook for easy experimentation and learning
