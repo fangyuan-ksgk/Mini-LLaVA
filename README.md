@@ -2,7 +2,7 @@
 <div align="center">
   <img src="data/title.png" width="300" alt="llava">
 </div>
-
+-------------
 <div align="center">
   <img src="data/mini-llava.png" width="800" alt="Mini-LLaVA">
   <p><em>Mini-LLaVA handles text, image and video inputs.</em></p>
