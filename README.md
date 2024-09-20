@@ -7,8 +7,8 @@
   </div>
 </div>
 ## Overview
+![mini-llava-01](https://github.com/user-attachments/assets/7fcb6421-7759-4eb2-b67c-c2daa50530dd)
 
-![mini-llava-01](https://github.com/user-attachments/assets/bce2a81b-637e-4c01-ae23-ffc1d95e2cac)
 
 Mini-LlaVA is a lightweight implementation of the LLaVA model, designed to unlock multimodal capabilities of Large Language Models (LLMs) using a single GPU. This project extends the original LLaVA concept by enabling interleaved processing of multiple images, videos, and text inputs respecting their order of appearance.
 
