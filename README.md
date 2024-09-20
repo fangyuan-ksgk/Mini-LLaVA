@@ -1,10 +1,9 @@
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;"> -->
 <div align="center">
-  <img src="data/title.png" width="200" alt="llava">
+  <img src="data/title.png" width="300" alt="llava">
   <div>
     <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
   </div>
-  <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="250" alt="mice-tele" style="margin-right: 20px;">
 </div>
 
 <div align="center">
