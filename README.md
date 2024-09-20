@@ -1,8 +1,12 @@
 # Mini-LlaVA
 
-Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.
-
-<img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="200" alt="mice-tele">
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="300" alt="mice-tele" style="margin-right: 20px;">
+  <div>
+    <h2>Overview</h2>
+    <p>Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
+  </div>
+</div>
 
 
 ## Overview
