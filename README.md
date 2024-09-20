@@ -1,5 +1,3 @@
-# Mini-LLaVA
-
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;"> -->
 <div align="center">
   <h1 style="margin: 0;">Mini-LLaVA</h1>
