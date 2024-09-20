@@ -20,7 +20,7 @@ Mini-LlaVA is a lightweight implementation of the LLaVA model, designed to unloc
   - Text
 - Jupyter notebook for easy experimentation and learning
 
-## Environment
+## Environment Set-up
 ```shell
 run set.sh
 ```
