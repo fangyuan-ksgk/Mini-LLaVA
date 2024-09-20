@@ -1,4 +1,4 @@
-# Mini-LlaVA
+# Mini-LLaVA
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="300" alt="mice-tele" style="margin-right: 20px;">
