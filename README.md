@@ -1,14 +1,11 @@
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;"> -->
 <div align="center">
   <img src="data/title.png" width="300" alt="llava">
-  <div>
-    <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
-  </div>
 </div>
 
 <div align="center">
   <img src="data/mini-llava.png" width="800" alt="Mini-LLaVA">
-  <p><em>Mini-LLaVA handles text, image and video inputs</em></p>
+  <p><em>Mini-LLaVA handles text, image and video inputs.</em></p>
 </div>
 
 
