@@ -5,7 +5,7 @@
   <div>
     <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
   </div>
-    <img src="[https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd](https://github.com/user-attachments/assets/a4c47b46-8ad1-4614-a620-baabcdcba9da)" width="300" alt="mice-tele" style="margin-right: 20px;">
+    <img src="[https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd](https://github.com/user-attachments/assets/a4c47b46-8ad1-4614-a620-baabcdcba9da)" width="300">
 </div>
 ## Overview
 
