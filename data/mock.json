@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nishino",
+    "media": [
+      {"image": "nishino.jpg"},
+      {"video": "nishino-animate.mp4"}
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat can you see in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The image shows a beautiful sunset over a beach. The sky is painted with vibrant orange and pink hues, reflecting off the calm ocean water. In the foreground, there's a silhouette of a palm tree, adding a tropical feel to the scene."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDescribe what's happening in this video."
+      },
+      {
+        "from": "gpt",
+        "value": "The video shows a busy city street during rush hour. There are numerous cars and buses moving slowly through traffic. Pedestrians are crossing at crosswalks and walking on sidewalks. The scene is typical of a bustling urban environment during a weekday morning or evening."
+      }
+    ]
+  }
+]
