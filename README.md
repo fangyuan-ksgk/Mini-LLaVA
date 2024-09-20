@@ -2,7 +2,7 @@
 <div align="center">
   <h1 style="margin: 0; display: flex; align-items: center; justify-content: center;">
     Mini-LLaVA
-    <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="50" alt="mice-tele" style="margin-left: 10px;">
+    <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="120" alt="mice-tele" style="margin-left: 10px;">
   </h1>
   <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
 </div>
