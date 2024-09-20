@@ -1,7 +1,6 @@
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;"> -->
 <div align="center">
   <img src="data/title.png" width="200" alt="llava">
-  <h1 style="margin: 0;">Mini-LLaVA</h1>
   <div>
     <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
   </div>
