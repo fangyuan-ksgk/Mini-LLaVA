@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-from .utils import rank0_print
 from transformers import CLIPVisionModel, CLIPImageProcessor, CLIPVisionConfig
 
 
@@ -18,7 +17,7 @@ class CLIPVisionTower(nn.Module):
 
     def load_model(self, device_map=None):
         if self.is_loaded:
-            rank0_print("{} is already loaded, `load_model` called again, skipping.".format(self.vision_tower_name))
+            print("{} is already loaded, `load_model` called again, skipping.".format(self.vision_tower_name))
             return
 
         self.image_processor = CLIPImageProcessor.from_pretrained(self.vision_tower_name)
