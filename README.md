@@ -1,10 +1,10 @@
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px;"> -->
 <div align="center">
-  <h1 style="margin: 0;">Mini-LLaVA</h1>
-  <div>
-    <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
-  </div>
-  <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="250" alt="mice-tele" style="margin-right: 20px;">
+  <h1 style="margin: 0; display: flex; align-items: center; justify-content: center;">
+    Mini-LLaVA
+    <img src="https://github.com/user-attachments/assets/45681a03-d10f-4e54-ba58-f858dde11dfd" width="50" alt="mice-tele" style="margin-left: 10px;">
+  </h1>
+  <p style="margin: 0;">Minimal Implementation of LLaVA (Large Language and Vision Assistant) with interleaved image, text, and video processing ability.</p>
 </div>
 
 <div align="center">
