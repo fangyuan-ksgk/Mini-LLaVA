@@ -11,7 +11,7 @@
 Mini-LlaVA is a lightweight implementation of the LLaVA model, designed to unlock multimodal capabilities of Large Language Models (LLMs) using a single GPU. This project extends the original LLaVA concept by enabling interleaved processing of multiple images, videos, and text inputs respecting their order of appearance.
 
 ## :new: Updates
-- [09/2024] [Minimal Implementation] Tutorial in Mini_LLaVA.ipynb showing how a pre-trained adaptor could enable vision ability of LLama3.1.  
+- [09/2024] [Minimal Implementation] Tutorial in Mini_LLaVA.ipynb showing how a pre-trained adaptor could helps Llama3.1 to see. (with ~5hr training on 1 GPU)  
 
 
 ## Features
