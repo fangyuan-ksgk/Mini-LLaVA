@@ -4,7 +4,7 @@
 </div>
 -------------
 <div align="center">
-  <img src="data/mini-llava.png" width="800" alt="Mini-LLaVA">
+  <img src="data/mini-llava-visual.gif" width="800" alt="Mini-LLaVA Demo">
   <p><em>Mini-LLaVA handles text, image and video inputs.</em></p>
 </div>
 
