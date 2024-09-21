@@ -7,8 +7,10 @@
   <p><em>Mini-LLaVA handles text, image and video inputs.</em></p>
 </div>
 
+Welcome to Mini-LLaVA – a minimal and seamless implementation of the LLaVA model, specifically crafted to help you unlock the true multimodal potential of a Large Language Model (based on Llama-3.1) with just a single GPU.
 
-Mini-LlaVA is a minimal implementation of the LLaVA model, designed to help us learn how to unlock multimodal capabilities of Large Language Models (LLMs) using a single GPU. This project extends the original LLaVA concept by enabling interleaved processing of multiple images, videos, and text inputs respecting their order of appearance.
+This project goes above and beyond the original by introducing powerful support for interleaved processing of multiple input types—including images, videos, and text—all respecting their order of appearance. Whether you're handling complex visual-textual correlations or want seamless transitions between media formats, Mini-LLaVA has you covered with minimal code and maximum flexibility.
+
 
 ## :new: Updates
 - [09/2024] [Minimal Implementation] Tutorial in Mini_LLaVA.ipynb showing how a pre-trained adaptor could helps Llama3.1 to see.
