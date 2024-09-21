@@ -21,7 +21,16 @@ Mini-LlaVA is a minimal implementation of the LLaVA model, designed to help us l
   - Videos
   - Text
 
+## TODO 
+- [ ] Fine-tune on language decoder
+- [ ] Audio modality
+- [ ] Retrieval modality
+- [ ] Benchmark inference test
+
+
 ## Environment Set-up
 ```shell
 run set.sh
 ```
+
+
