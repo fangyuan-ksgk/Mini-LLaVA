@@ -7,16 +7,9 @@
   <p><em>Mini-LLaVA handles text, image and video inputs.</em></p>
 </div>
 
-This minimal yet powerful codebase transforms LLaMA 3.1 into a vision-language model, giving it the ability to "see" and process visual information. 📷💻
+Welcome to Mini-LLaVA – a minimal and seamless implementation of LLaVA-style vision language model, which unlock multimodal ability of a Large Language Model (based on Llama-3.1) with just a single GPU.
 
-I’ve learned a ton from the LLaVA project, and while it’s incredibly powerful, I felt there was room for a simplified implementation that anyone can use, modify, and extend easily.
-
-Here’s what Mini-LLaVA does:
-
-🛠️ Minimal Structure: A clean and lightweight codebase, designed for easy understanding and quick experimentation.
-🎥 Enhanced Multimodal Input: Supports interleaving multiple images and video inputs, tackling a wider range of vision-language tasks.
-🐱 Pretrained Vision Projector: With some minor tuning, Mini-LLaVA can already recognize images (like a cat, for instance! 🐱) out of the box!
-
+This project goes above and beyond the original by introducing powerful support for interleaved processing of multiple input types—including images, videos, and text—all respecting their order of appearance. Whether you're handling complex visual-textual correlations or want seamless transitions between media formats, Mini-LLaVA has you covered with minimal code and maximum flexibility.
 
 
 ## 🔥 Updates
