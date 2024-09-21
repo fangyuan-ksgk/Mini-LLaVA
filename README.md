@@ -13,16 +13,16 @@ This project goes above and beyond the original by introducing powerful support 
 
 
 
-## :new: Updates
+## 🔥 Updates
 - [09/2024] [Minimal Implementation] Tutorial in Mini_LLaVA.ipynb showing how a pre-trained adaptor could helps Llama3.1 to see.
 
 
-## Features
+## 💡 Features
 - Minimal Code Structure: Transform a language model (Llama 3.1) into a powerful vision-language model with minimal, easy-to-understand code.
 - Simplified Implementation: Our code is significantly simpler than the original LLaVA implementation, making it easier to dive into and build upon.
 - Extended Functionality: We've added support for interleaved processing of images, videos, and text, giving you more flexibility and power.
 
-## TODO 
+## 🚧 TODO 
 - [ ] Fine-tune on language decoder
 - [ ] Audio modality
 - [ ] Retrieval modality
